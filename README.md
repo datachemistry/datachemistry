@@ -5,7 +5,7 @@ Olá eu sou Thiago Yuki, bem vindx!
 
 <p align='center'>
   Sou um Pesquisador Químico, Cientista de Dados e Agilista.
-  Criador e mantedor do Blog <a href="https://datachemistry.com.br/">DataChemistry.com.br</a>
+  <p>Criador e mantedor do Blog <a href="https://datachemistry.com.br/">DataChemistry.com.br</a>
 </p>
 
 <p align='center'>
