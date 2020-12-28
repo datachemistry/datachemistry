@@ -39,7 +39,11 @@ Olá eu sou Thiago Yuki, bem vindx!
   
 
  
-Sou Químico de formação, pesquisador com 10 anos de experiência na área de P&D no setor de produtos florestais (Celulose, Fluff e Lignina).
+Sou bacharel em em química pela **UMC**, MBA em Gestão de Negócios pela **USP/ESALQ**, Especialista em Tecnoligia de Produção de Celulose e Papel pela **UFV**.
+<p>Atualmente sou Doutorando em Bioenergia pela **USP** e MBA em Data Science e Analytcs pela **USP/ESALQ**.</p>
+
+pesquisador com 10 anos de experiência na área de P&D no setor de produtos florestais (Celulose, Fluff e Lignina).
+<p>Entusiasta da Inovação, Agilidade, Ciência de Dados e Química verde.</p>
 
 Sou programador: <p align = 'center'>
 <img src=	"https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
