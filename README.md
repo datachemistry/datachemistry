@@ -34,7 +34,7 @@ Olá eu sou Thiago Yuki, bem vindx!
   📫 Como me contatar: <a href='mailto:thiagoyuki@datachemistry.com.br'>thiagoyuki@datachemistry.com.br</a>
 </p>
   
- 
+
  
 Sou Químico de formação, pesquisador com 10 anos de experiência na área de P&D no setor de produtos florestais (Celulose, Fluff e Lignina).
 
@@ -51,3 +51,5 @@ Sou programador: <p align = 'center'>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=datachemistry&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+[![DataChemistry github stats](https://github-readme-stats.vercel.app/api?username=datachemistry&theme=blue-green)](https://github.com/datachemistry/github-readme-stats)
