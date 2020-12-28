@@ -1,3 +1,6 @@
+[![capa](https://github.com/datachemistry/datachemistry/blob/main/Thiago%20Yuki.png)](https://github.com/datachemistry?tab=repositories)
+---
+
 <h1 align='center'>
 Olá eu sou Thiago Yuki, bem vindx!
 </h1>
