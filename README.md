@@ -38,7 +38,7 @@ Olá eu sou Thiago Yuki, bem vindx!
  
 Sou Químico de formação, pesquisador com 10 anos de experiência na área de P&D no setor de produtos florestais (Celulose, Fluff e Lignina).
 
-Sou programador: <p>
+Sou programador: <p align = 'center'>
 <img src=	"https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
 <img src=	"https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src=	"https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
