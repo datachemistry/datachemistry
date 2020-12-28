@@ -45,7 +45,7 @@ Sou pesquisador com 10 anos de experiência na área de P&D no setor de produtos
  
 - Sou bacharel em em química pela **UMC**; 
 - MBA em Gestão de Negócios pela **USP/ESALQ**;
-- Especialista em Tecnoligia de Produção de Celulose e Papel pela **UFV**;
+- Especialista em Tecnologia de Produção de Celulose e Papel pela **UFV**;
 - Atualmente sou Doutorando em Bioenergia pela **USP** e MBA em Data Science e Analytcs pela **USP/ESALQ**.
 
 Sou programador nas Linguagens: <p align = 'center'>
