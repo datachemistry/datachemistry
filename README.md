@@ -63,3 +63,8 @@ Sou programador nas Linguagens: <p align = 'center'>
 </p>
 
 
+Atualmente aprendesndo:
+
+<img src = "https://julialang.org/assets/infra/logo.svg" />
+
+
