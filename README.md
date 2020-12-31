@@ -66,7 +66,7 @@ Sou programador nas Linguagens: <p align = 'center'>
 Atualmente aprendendo:
 
 <img src = "https://julialang.org/assets/infra/logo.svg" width="193" />
-<img src = "https://www.minizinc.org/doc-2.2.0/en/static/MiniZn_logo_2.svg" />
+<img src = "https://www.minizinc.org/doc-2.2.0/en/static/MiniZn_logo_2.svg" width="193" />
 
 
 
