@@ -13,6 +13,9 @@ Olá eu sou Thiago Yuki, bem vindx!
 <p align='center'>Criador e mantedor do Blog <a href="https://datachemistry.com.br/">DataChemistry.com.br</a>
 </p>
 
+<p align='center'>Para saber mais sobre minha pesquisa de Doutorado: <a href="https://datachemistry.github.io/lignum/">https://datachemistry.github.io/lignum/</a>
+</p>
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/thiagoyuki/">
