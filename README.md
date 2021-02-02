@@ -64,7 +64,7 @@ Sou programador nas Linguagens: <p align = 'center'>
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datachemistry&theme=tokyonight)  
+<a href="#"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=datachemistry&theme=tokyonight'></a>
 
 
 <p align='center'>
