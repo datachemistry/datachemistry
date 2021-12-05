@@ -43,7 +43,9 @@ Olá eu sou Thiago Yuki, bem vindx!
   📫 Como me contatar: <a href='mailto:thiagoyuki@datachemistry.com.br'>thiagoyuki@datachemistry.com.br</a>
 </p>
   
-Atualmente sou Agilsita e trabalho na área de Gente e Gestão com os Times de Atração de Telentos, Serviços Transacionais e Analytics. Ajudando equipes a buscar melhores forma de trabalho e geração de valor atraveź do pensamento Lean-Ágil. Sou agilista com certificação de Scrum Master Profissional (PSM I), Profissional de Gerenciamento Kanban (KMP), Management 3.0, e Green Belt pelo Six Sigma Council.
+Atualmente sou Agilista e trabalho na área de Gente e Gestão (RH) com os Times de Atração de Telentos, Serviços Transacionais e Analytics. Ajudando equipes a buscar melhores formas de trabalho e geração de valor atravéz do pensamento Lean-Ágil. 
+
+<p>Sou agilista com certificação de Scrum Master Profissional (PSM I), Profissional de Gerenciamento Kanban (KMP), Management 3.0, e Green Belt pelo Six Sigma Council.</p>
 
 <p>Atuei na área de P&D por 10 anos com experiência na área de de produtos floresta<p>is (Celulose, Fluff e Lignina).</p>
 
