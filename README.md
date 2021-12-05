@@ -7,8 +7,11 @@ Olá eu sou Thiago Yuki, bem vindx!
 
 
 <p align='center'>
-  Sou um Pesquisador Químico, Cientista de Dados e Agilista.
+  Sou um Agilista, Cientista de Dados e Pesquisador Químico.
   </p>
+  
+ <p align='center'>Criador e mantedor do Blog <a href="https://praticasgeis.com.br/">PraticasAgeis.com.br</a>
+</p>
   
 <p align='center'>Criador e mantedor do Blog <a href="https://datachemistry.com.br/">DataChemistry.com.br</a>
 </p>
