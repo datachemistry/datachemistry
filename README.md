@@ -16,9 +16,6 @@ Olá eu sou Thiago Yuki, bem vindx!
 <p align='center'>Criador e mantedor do Blog <a href="https://datachemistry.com.br/">DataChemistry.com.br</a>
 </p>
 
-<p align='center'>Para saber mais sobre minha pesquisa de Doutorado: <a href="https://datachemistry.github.io/lignum/">https://datachemistry.github.io/lignum/</a>
-</p>
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/thiagoyuki/">
@@ -46,13 +43,17 @@ Olá eu sou Thiago Yuki, bem vindx!
   📫 Como me contatar: <a href='mailto:thiagoyuki@datachemistry.com.br'>thiagoyuki@datachemistry.com.br</a>
 </p>
   
-Sou pesquisador com 10 anos de experiência na área de P&D no setor de produtos florestais (Celulose, Fluff e Lignina).
+Atualmente sou Agilsita e trabalho na área de Gente e Gestão com os Times de Atração de Telentos, Serviços Transacionais e Analytics. Ajudando equipes a buscar melhores forma de trabalho e geração de valor atraveź do pensamento Lean-Ágil. Sou agilista com certificação de Scrum Master Profissional (PSM I), Profissional de Gerenciamento Kanban (KMP), Management 3.0, e Green Belt pelo Six Sigma Council.
+
+<p>Atuei na área de P&D por 10 anos com experiência na área de de produtos floresta<p>is (Celulose, Fluff e Lignina).</p>
+
 <p>Entusiasta da Inovação, Agilidade, Ciência de Dados e Química verde.</p>
  
-- Sou bacharel em em química pela **UMC**; 
+- Sou bacharel em em química pela **UMC**;
+- MBA em Data Science e Analytics pela **USP/ESALQ**; 
 - MBA em Gestão de Negócios pela **USP/ESALQ**;
 - Especialista em Tecnologia de Produção de Celulose e Papel pela **UFV**;
-- Atualmente sou Doutorando em Bioenergia pela **USP** e MBA em Data Science e Analytcs pela **USP/ESALQ**.
+- (Cancelado) Doutorando em Bioenergia pela **USP** e MBA em Data Science e Analytcs pela **USP/ESALQ**.
 
 Sou programador nas Linguagens: <p align = 'center'>
 <img src=	"https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
@@ -75,7 +76,11 @@ Sou programador nas Linguagens: <p align = 'center'>
 </p>
 
 
-Atualmente aprendendo: Linguagem Julia e MiniZinc para Otimização.
+Atualmente aprendendo: 
+- Python
+- MLflow
+- Julia 
+- Otimização
 
 
 
