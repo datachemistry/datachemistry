@@ -7,45 +7,29 @@ Olá eu sou Thiago Yuki, bem vindx!
 
 
 <p align='center'>
-  Sou um Agilista, Cientista de Dados e Pesquisador Químico.
+  Sou um cientista de dados, estusiata da agilidade e pesquisador químico.
   </p>
   
  <p align='center'>Criador e mantedor do Blog <a href="https://praticasgeis.com.br/">PraticasAgeis.com.br</a>
 </p>
   
-<p align='center'>Criador e mantedor do Blog <a href="https://datachemistry.com.br/">DataChemistry.com.br</a>
-</p>
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/thiagoyuki/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  
-   <a href="https://datachemistry.medium.com/">
-    <img src=	"https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-   <a href="https://www.youtube.com/channel/UCHQvEWd_9JIU7iCmK-JFIYg?view_as=subscriber">
-    <img src=	"https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-   <a href="https://www.twitch.tv/datachemistry">
-    <img src=	"https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-  
-  
   </p>
   
  <p align='center'>
-  📫 Como me contatar: <a href='mailto:thiagoyuki@datachemistry.com.br'>thiagoyuki@datachemistry.com.br</a>
+  📫 Como me contatar: <a href='mailto:thiagoyuki@praticasageis.com.br'>thiagoyuki@praticasageis.com.br</a>
 </p>
   
-Atualmente sou Agilista e trabalho na área de Gente e Gestão (RH) com os Times de Atração de Telentos, Serviços Transacionais e Analytics. Ajudando equipes a buscar melhores formas de trabalho e geração de valor atravéz do pensamento Lean-Ágil. 
+Atualmente sou Cientista de Dados na Suzano S.A, atuando na área de Planejamento e Logística Floresta 
 
-<p>Sou agilista com certificação de Scrum Master Profissional (PSM I), Profissional de Gerenciamento Kanban (KMP), Management 3.0, e Green Belt pelo Six Sigma Council.</p>
+Fui Agilista e trabalhei na área de Gente e Gestão (RH) com os Times de Atração de Telentos, Serviços Transacionais, Remuneração, Benefícios, Orçamento e Analytics. Ajudando equipes a buscar melhores formas de trabalho e geração de valor atravéz do pensamento Lean-Ágil. 
+
+Tenho certificação de Scrum Master Profissional (PSM I), Profissional de Gerenciamento Kanban (KMP I + KMP II), Management 3.0, Flight Levels System Archtecture.</p>
 
 <p>Atuei na área de P&D por 10 anos com experiência na área de de produtos florestais (Celulose, Fluff e Lignina).</p>
 
@@ -81,9 +65,7 @@ Sou programador nas Linguagens: <p align = 'center'>
 
 
 Atualmente aprendendo: 
-- Python
-- MLflow
-- Julia 
+- Django
 - Otimização
 
 
