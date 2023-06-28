@@ -7,7 +7,7 @@ Olá eu sou Thiago Yuki, bem vindx!
 
 
 <p align='center'>
-  Sou um cientista de dados, estusiata da agilidade e pesquisador químico.
+  Sou um cientista de dados, estusiasta da agilidade, Inovação aberta e pesquisador químico.
   </p>
   
  <p align='center'>Criador e mantedor do Blog <a href="https://praticasgeis.com.br/">PraticasAgeis.com.br</a>
